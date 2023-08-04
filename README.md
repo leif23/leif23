@@ -15,7 +15,6 @@ These are the technologies I've work with
 
 ## 🔭 I’m currently working 
 * java fundamentals
-  
 ## 🌱 I’m currently learning 
 * java spring rest api 
 * spring security
