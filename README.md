@@ -8,7 +8,7 @@ as software engineer fresher graduate from Coding Dojo part of Colorado Technica
 //
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,flask,spring,react,bootstrap,mysql,mongo" />
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,flask,spring,react,bootstrap,mysql,mongo,api" />
   </a>
 </p>
 
