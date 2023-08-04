@@ -4,11 +4,11 @@ as software engineer fresher graduate from Coding Dojo part of Colorado Technica
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leif123&show_icons=true&theme=highcontrast)
 
 
-### Skills 
+## Skills
 //
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,flask,spring,react,bootstrap,mysql,mongo,api" />
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,flask,spring,react,bootstrap,mysql,mongodb,nodejs,django,aws,eclipse,express,postman" />
   </a>
 </p>
 
