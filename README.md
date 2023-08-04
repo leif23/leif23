@@ -8,7 +8,7 @@ as software engineer fresher graduate from Coding Dojo part of Colorado Technica
 These are the technologies I've work with
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,flask,spring,react,bootstrap,mysql,mongodb,nodejs,django,aws,eclipse,express,postman" />
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,flask,spring,react,bootstrap,mysql,mongodb,nodejs,django,aws,eclipse,express,postman,c" />
   </a>
 </p>
 
