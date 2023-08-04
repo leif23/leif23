@@ -5,4 +5,10 @@ as software engineer fresher graduate from Coding Dojo part of Colorado Technica
 
 
 ### Skills 
+//
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=Python,Java,Javascript,HTML5,CSS,SQL,Flask,Jinja2" />
+  </a>
+</p>
 
