@@ -12,3 +12,12 @@ These are the technologies I've work with
   </a>
 </p>
 
+
+- 🔭 I’m currently working on java fundamentals and making big projects.
+- 🌱 I’m currently learning java spring rest api spring security and aws and soon making projects 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/leif23)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/leif-orosco//)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leif23)](https://github.com/anuraghazra/github-readme-stats)
+
