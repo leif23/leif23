@@ -13,8 +13,13 @@ These are the technologies I've work with
 </p>
 
 
-- 🔭 I’m currently working on java fundamentals and making big projects.
-- 🌱 I’m currently learning java spring rest api spring security and aws and soon making projects 
+## 🔭 I’m currently working 
+* java fundamentals
+* 
+## 🌱 I’m currently learning 
+* java spring rest api 
+* spring security
+* deployment aws 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/leif23)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/leif-orosco//)  
