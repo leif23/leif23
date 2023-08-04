@@ -26,5 +26,4 @@ These are the technologies I've work with
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leif23)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leif23&layout=compact)
